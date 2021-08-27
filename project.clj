@@ -1,4 +1,4 @@
-(defproject org.clojars.lilactown/react-repl "0.0.1"
+(defproject town.lilac/react-repl "0.0.1"
   :description "Tools for interacting with a React app from a ClojureScript REPL"
   :url "https://github.com/lilactown/react-repl"
   :license {:name "Apache2 License"
