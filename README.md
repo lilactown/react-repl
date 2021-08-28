@@ -1,6 +1,7 @@
 # react-repl
 
-[![Clojars Project](https://img.shields.io/clojars/v/org.clojars.lilactown/react-repl.svg)](https://clojars.org/org.clojars.lilactown/react-repl)
+[![Clojars Project](https://img.shields.io/clojars/v/town.lilac/react-repl.svg)](https://clojars.org/town.lilac/react-repl)
+
 
 A library for interacting with a live React application at a REPL.
 
