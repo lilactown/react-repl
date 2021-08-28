@@ -1,4 +1,6 @@
 (ns react-repl.dom
+  "A namespace for functions that pertain specifically to react-dom
+  applciations."
   (:require
    [goog.dom :as gdom]
    [goog.object :as gobj]
